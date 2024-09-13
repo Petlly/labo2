@@ -1,0 +1,25 @@
+h1{
+    text-shadow: 1px 1px 2px black, 0 0 1em red, 0 0 0.2em red;
+    text-align: center;
+    color: white;
+    filter: grayscale(0.5);
+    background-image: url("image/GettyImages-1656999898.avif");
+    background-position: center;
+    padding-top: 55px;
+    padding-left: 55px;
+
+}
+
+p{
+    font-size: 20px;
+}
+
+
+h4{
+    font-size: 21px;
+
+}
+
+a{
+    font-size: 20px;
+}
